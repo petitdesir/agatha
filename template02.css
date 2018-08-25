@@ -49,13 +49,10 @@
     font-size: 35px; 
     font-weight: bold; }
 
-.vampira b { color: #000; }
-.vampira i { color: #000; }
-.vampira v { color: #000; 
+.vampira v { color: #FFF; 
     font-weight: bold;
     font-family: arial;
     font-size: 12.5px; }
-.vampira npc11 { color: #000; }
     
 .vampira0114 {background-color: transparent;
     background-position: top; 
