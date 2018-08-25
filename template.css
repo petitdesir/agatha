@@ -1,0 +1,22 @@
+.vampira011 {padding: 30px; margin-bottom: 0px; margin-top: -50px; text-align:justify; width: 370px; background-color: RGBA(76, 21, 17, 1); border-radius: 85px; border-color: #FFF; border-style: double;} 
+    
+.vampira01 { width: 370px; font: 80px/12px  'UnifrakturMaguntia', cursive; text-align: center; text-transform: none; padding-top: 20px; padding-bottom: 0px; letter-spacing: 3px; position: relative; top: -40px; color: transparent; text-shadow: 0 0 5px rgba(255,255,255,0.5); margin-top: 90px; }
+ 
+.vampira03 { color: #CD950C; width: 370px; font: 7px/12px 'UnifrakturMaguntia', cursive; text-align: center; text-transform: lowercase; padding-top: 0px; padding-bottom: -20px; letter-spacing: 3px; position: relative; top: -50px; color: #FFF; }    
+   
+.vampira { font-size: 11.5px; line-height: 250%; color: #FFF; font-family: 'Old Standard TT', serif;  white-space:pre-line; margin-top: 20px; padding: 20px;}
+    
+.vampira:first-letter {float: left;   margin: 20px 25px 0px 15px; color: #FFF; text-transform: uppercase; font-family: 'Old Standard TT', serif; font-size: 35px; font-weight: bold; }
+
+.vampira b { color: #000; }
+.vampira i { color: #000; }
+.vampira v {  font-size: 14px; color: #FFF; font-weight: bold; }
+.vampira npc11 { color: #000; }
+    
+.vampira0114 {background-position:top; width: 560px; background-color:#FFF; background-repeat: no-repeat; padding-left: 0px; padding-right: 0px; padding-bottom: 30px; padding-top: 200px; background-image: url(https://i.imgur.com/05vKCLy.png);}
+    
+.vampira0115 {width: 520px; padding-left:20px; padding-right:20px; bottom:100px; background-repeat: no-repeat; background-image: url(https://i.imgur.com/ggmR832.png); background-position: bottom;}  
+  
+.gif-agatha {box-shadow: 0px 1px 30px 1px #fff; width: 340px; height: 140px; background-position: center; border-radius: 100px; position: relative; top: -92px; position: relative; -webkit-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);background-image: url(https://i.imgur.com/WIrhyj2.png); }
+    
+.cred { width: 470px; font: 6px/12px 'Old Standard TT', serif; text-align: center; text-transform: uppercase; letter-spacing: 1px; position: relative; top: -180px; color: #4C1511;  -moz-transform: rotate(-90deg); -o-transform: rotate(-90deg); -webkit-transform: rotate(-90deg); -ms-transform: rotate(-90deg); margin-left: 270px;}
