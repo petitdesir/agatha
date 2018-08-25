@@ -51,13 +51,14 @@
 
 .vampira b { color: #000; }
 .vampira i { color: #000; }
-.vampira v {  font-size: 14px; 
-    color: #000; 
+.vampira v { color: #000; 
     font-weight: bold;
-    font-family: arial;}
+    font-family: arial;
+    font-size: 12.5px; }
 .vampira npc11 { color: #000; }
     
-.vampira0114 {background-position: top; 
+.vampira0114 {background-color: transparent;
+    background-position: top; 
     width: 560px; 
     background-color:#FFF; 
     background-repeat: no-repeat; 
@@ -67,7 +68,8 @@
     padding-top: 200px; 
     background-image: url(https://i.imgur.com/05vKCLy.png);}
     
-.vampira0115 {width: 520px; 
+.vampira0115 {background-color: transparent;
+    width: 520px; 
     padding-left:20px; 
     padding-right:20px; 
     bottom:100px; 
